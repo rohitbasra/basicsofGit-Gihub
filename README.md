@@ -1,1 +1,3 @@
-# basicsofGit-Gihub
+# basicsofGit-Github
+<br>
+Let's get started...
